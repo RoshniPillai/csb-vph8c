@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://roshnipillai.github.io/csb-vph8c/static/css/main.1154427f.chunk.css",
+    "main.js": "https://roshnipillai.github.io/csb-vph8c/static/js/main.5de9130a.chunk.js",
+    "main.js.map": "https://roshnipillai.github.io/csb-vph8c/static/js/main.5de9130a.chunk.js.map",
+    "runtime-main.js": "https://roshnipillai.github.io/csb-vph8c/static/js/runtime-main.373f490d.js",
+    "runtime-main.js.map": "https://roshnipillai.github.io/csb-vph8c/static/js/runtime-main.373f490d.js.map",
+    "static/js/2.d0749657.chunk.js": "https://roshnipillai.github.io/csb-vph8c/static/js/2.d0749657.chunk.js",
+    "static/js/2.d0749657.chunk.js.map": "https://roshnipillai.github.io/csb-vph8c/static/js/2.d0749657.chunk.js.map",
+    "index.html": "https://roshnipillai.github.io/csb-vph8c/index.html",
+    "static/css/main.1154427f.chunk.css.map": "https://roshnipillai.github.io/csb-vph8c/static/css/main.1154427f.chunk.css.map",
+    "static/js/2.d0749657.chunk.js.LICENSE.txt": "https://roshnipillai.github.io/csb-vph8c/static/js/2.d0749657.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373f490d.js",
+    "static/js/2.d0749657.chunk.js",
+    "static/css/main.1154427f.chunk.css",
+    "static/js/main.5de9130a.chunk.js"
+  ]
+}
